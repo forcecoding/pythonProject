@@ -16,4 +16,4 @@ while count <= 3:
         print('\nPróbuj dalej')
         continue
 
-print("!!!Przegrałeś!!!")
+print("!!!Przegrałeś tą gre!!!")
